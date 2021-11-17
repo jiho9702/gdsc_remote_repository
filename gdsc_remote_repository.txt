@@ -1,3 +1,0 @@
-# gdsc_remote_repository
-
-first commit
